@@ -12,8 +12,12 @@ The data used in this project is publicly available on Kaggle and contains infor
 ## Models
 Two models have been implemented in this project: LSTM and Hybrid 1D CNN-LSTM models.
 
+## Architecture of CNN-LSTM Model
+![CNN-LSTM](https://github.com/shreyrastogi0508/Demand_Forecasting_Methods_MajorProject/blob/master/temp/CNN-LSTM.png)
+
 ## Results
 Using the MSE and MAPE values to compare the efficiency of both the models, the CNN-LSTM Hybrid Model outperformed the LSTM Model.
+![CNN-LSTM](https://github.com/shreyrastogi0508/Demand_Forecasting_Methods_MajorProject/blob/master/temp/result_table.png)
 
 ## Applications
 Demand forecasting has several applications, including inventory control, production planning, and market entry decisions. Accurate forecasting enables businesses to optimize their operations and increase their profitability.
