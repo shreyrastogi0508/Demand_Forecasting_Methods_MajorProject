@@ -29,8 +29,8 @@ This project demonstrates the effectiveness of deep neural networks, specificall
 ## Built with
 
 * [Python](https://python.org) - Programming language which has been used
-* [Keras](https://pjreddie.com/darknet/yolo/) - Clean and easy way to create deep learning models
-* [Tensorflow](https://pjreddie.com/darknet/yolo/) - Used for creating neural networks and deep learning models.
+* [Keras](https://keras.io/) - Clean and easy way to create deep learning models
+* [Tensorflow](https://www.tensorflow.org/) - Used for creating neural networks and deep learning models.
 
 ## Authors
 
