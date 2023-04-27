@@ -1,4 +1,4 @@
-# Demand Forecasting using LSTM and Hybrid LSTM-1D CNN Models
+# Demand Forecasting using LSTM and Hybrid 1D CNN-LSTM Models
 
 [![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
@@ -21,5 +21,19 @@ Demand forecasting has several applications, including inventory control, produc
 ## Conclusion
 This project demonstrates the effectiveness of deep neural networks, specifically LSTM and hybrid LSTM-1D CNN models, in demand forecasting for supply chain management. The results obtained from this study can be useful for businesses to make informed decisions regarding inventory control, production planning, and market entry.
 
+
+## Built with
+
+* [Python](https://python.org) - Programming language which has been used
+* [Keras](https://pjreddie.com/darknet/yolo/) - Clean and easy way to create deep learning models
+* [Tensorflow](https://pjreddie.com/darknet/yolo/) - Used for creating neural networks and deep learning models.
+
+## Authors
+
+* **Shrey Rastogi** - [Shrey](https://github.com/shreyrastogi0508)
+* **Naveen Parthasarthy** - [Naveen](https://github.com/naveen-parth)
+
+
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
